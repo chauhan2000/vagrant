@@ -1,0 +1,10 @@
+1. vagrant up
+2. vagrant ssh
+3. Install nginx (sudo apt-get install nginx)
+4. Exit
+5. Vagarnt tpackage
+6. vagarnt login
+7. Create an account on vagrant cloud
+8. Publish box on vagarnt Cloud
+    > vagarnt Cloud publish uname/bnoxname version
+    virtualbox package.box
