@@ -1,0 +1,13 @@
+firstly download the vagrant from the internet
+then open cmd and create a repository (mkdir) 
+then intialize the vagrant using vagrant init
+vagrant up
+vagrant ssh
+change the ip in the vagrant file
+change the private network 10 to 11
+exit
+vagrant halt
+vagrant up
+ifconfig
+ip address
+nginx server
